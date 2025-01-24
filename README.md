@@ -1,5 +1,5 @@
 # H25_V11_inspiration_BRIAND
 
-![Ivy](./media/ivypero128.gif)
+![Ivy](./media/ivypero256.gif)
 
 - [Liens externes](./external.md)
