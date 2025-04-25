@@ -1,0 +1,1 @@
+Photos prises au MBAM pour la fiche.
